@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https:/bimbala.com">
+  <a href="https://bimbala.com/">
     <img src="v2/bimbalaLogo.png" alt="Bimbala mascot/logo" width="800">
 </a>
 
@@ -28,11 +28,11 @@ P.S. If someone provides us with something that we use, there will be compensati
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Bimbalacom/bimbalacom.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/Bimbalacom/Graphical-elements.svg?style=flat-square
 [contributors-url]: https://github.com/Bimbalacom/Graphical-elements/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Bimbalacom/bimbalacom.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Bimbalacom/Graphical-elements.svg?style=flat-square
 [forks-url]: https://github.com/Bimbalacom/Graphical-elements/network/members
-[issues-shield]: https://img.shields.io/github/issues/Bimbalacom/bimbalacom.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/Bimbalacom/Graphical-elements.svg?style=flat-square
 [issues-url]: https://github.com/Bimbalacom/Graphical-elements/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/bimbala/

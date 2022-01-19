@@ -21,7 +21,7 @@
 Most of our work is in the open and that is why we added our graphical elements as well. (or at least the ones we made)
 Suggestions are always welcome.
 
-P.S. If someone provides us with something that we use, there will be compensated in some way.
+P.S. If someone provides us with something that we use, there will be compensation in some way.
 
 
 
@@ -29,10 +29,10 @@ P.S. If someone provides us with something that we use, there will be compensate
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Bimbalacom/bimbalacom.svg?style=flat-square
-[contributors-url]: https://github.com/Bimbalacom/bimbala.com/graphs/contributors
+[contributors-url]: https://github.com/Bimbalacom/Graphical-elements/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Bimbalacom/bimbalacom.svg?style=flat-square
-[forks-url]: https://github.com/Bimbalacom/bimbala.com/network/members
+[forks-url]: https://github.com/Bimbalacom/Graphical-elements/network/members
 [issues-shield]: https://img.shields.io/github/issues/Bimbalacom/bimbalacom.svg?style=flat-square
-[issues-url]: https://github.com/Bimbalacom/bimbala.com/issues
+[issues-url]: https://github.com/Bimbalacom/Graphical-elements/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/bimbala/
